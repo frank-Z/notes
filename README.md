@@ -1,7 +1,7 @@
 # Notes
 
-- Use GitHub as notebook😪
+- use GitHub as notebook😪
 
 ## Update Log
 
-- 20170926, Initial commit, Add bulma.md
+- 20170926, initial commit, add bulma.md, add notes from dropbox

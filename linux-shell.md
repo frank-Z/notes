@@ -1,0 +1,8 @@
+- iconv
+- ssh host -l
+- scp file host:remote-file
+- ps -e
+- tee
+- tar -zxvf
+- disown
+- nohup
