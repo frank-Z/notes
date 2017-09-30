@@ -10,3 +10,4 @@
 - git  reset --hard HEAD~3
 - git submodule add <url> <dir>
 - git submodule update --init --recursive
+- git filter-branch --tree-filter 'rm -f <filename>'
